@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Theresias tokohaipenjualan0decreased by_8f4c9d</name>
+   <tag></tag>
+   <elementGuidId>68f77a3b-25c5-42b3-b4bf-b3719be3ce34</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.chakra-container.css-9rmdie</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4b95463f-6ec3-4850-92b8-9dffd0940ab4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-container css-9rmdie</value>
+      <webElementGuid>da50b615-f46d-4a19-8136-52bb65beb942</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Theresia's tokohaipenjualan0decreased by0% dibanding kemarinpembelian0decreased by0% dibanding kemarinlaba kotor0total penjualan0total pembelian00autosale00autopurchase0</value>
+      <webElementGuid>0d90bb45-e534-448e-a23c-05b1c11ca2aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;css-k008qs&quot;]/div[@class=&quot;css-1r35f0l&quot;]/div[@class=&quot;chakra-container css-9rmdie&quot;]</value>
+      <webElementGuid>aec06c93-c621-4283-99ec-afad43e2026a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]</value>
+      <webElementGuid>5c3f3562-2257-4d8e-924d-14e13fa9ba02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='logout'])[1]/following::div[1]</value>
+      <webElementGuid>58acb8b3-5eb4-48e4-b1de-31bc6aa7a1a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Theresia', &quot;'&quot;, 's toko')])[1]/following::div[1]</value>
+      <webElementGuid>08974732-7c53-409b-ba0a-085f43dc4b64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>a3fedcc5-880e-4776-98d9-5b0048d313bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Theresia&quot; , &quot;'&quot; , &quot;s tokohaipenjualan0decreased by0% dibanding kemarinpembelian0decreased by0% dibanding kemarinlaba kotor0total penjualan0total pembelian00autosale00autopurchase0&quot;) or . = concat(&quot;Theresia&quot; , &quot;'&quot; , &quot;s tokohaipenjualan0decreased by0% dibanding kemarinpembelian0decreased by0% dibanding kemarinlaba kotor0total penjualan0total pembelian00autosale00autopurchase0&quot;))]</value>
+      <webElementGuid>4b147554-f72f-40cc-b7e3-6e7f2a4732df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
